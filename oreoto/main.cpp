@@ -218,7 +218,7 @@ int main()
         }
 
         // Clear the window
-        window.clear(sf::Color(50, 200, 50));
+        window.clear(sf::Color(200, 50, 50));
 
         if (isPlaying)
         {
